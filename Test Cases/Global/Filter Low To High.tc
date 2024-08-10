@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Filter Low To High</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9f72e2fb-35a4-4e49-a804-8c2ffba8c1ec</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify the Price</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8875ad7c-d4e4-475b-abed-958aceb251b4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7d222dba-7f43-421a-bc41-06792bbd5c48</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Price').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>7d222dba-7f43-421a-bc41-06792bbd5c48</id>
+      <masked>false</masked>
+      <name>price</name>
+   </variable>
+</TestCaseEntity>

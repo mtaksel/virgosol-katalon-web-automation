@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Fill The Form</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f2597ed4-b23c-466d-9264-d12ab94bfca8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>163a67a6-46ef-4c3d-a3a1-eb0114e59dba</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>be938747-93ae-48ca-9d7d-132edf8e7862</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>73994660-ac2c-4c30-9c6d-304f1a50bc00</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('User Data').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>163a67a6-46ef-4c3d-a3a1-eb0114e59dba</id>
+      <masked>false</masked>
+      <name>Name</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('User Data').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>be938747-93ae-48ca-9d7d-132edf8e7862</id>
+      <masked>false</masked>
+      <name>Surname</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('User Data').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>73994660-ac2c-4c30-9c6d-304f1a50bc00</id>
+      <masked>false</masked>
+      <name>PostalCode</name>
+   </variable>
+</TestCaseEntity>

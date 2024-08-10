@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Checkout Screen</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5fcaceec-eb83-4850-ada6-0a06c1e3c472</testCaseGuid>
+</TestCaseEntity>
